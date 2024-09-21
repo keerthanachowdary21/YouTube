@@ -491,7 +491,7 @@ console.log(formatDistanceToNow(new Date(2021, 8, 20)))
   - The Route should consist of an HTML container element with `data-testid` as **home**
   - The Route should consist of a banner and it contains a close button with `data-testid` as **close**
   - The Route should consist of a banner as shown in the design files with `data-testid` as **banner**
-  - The Route should consist of an HTML image element with alt as **nxt watch logo** and src as the given Nxt Watch logo URL in the banner
+  - The Route should consist of an HTML image element with alt as **YouTube watch logo** and src as the given YouTube Watch logo URL in the banner
   - The HTML container element with `data-testid` as **home** should have the background color,
     - If the Light theme is applied, then the **#f9f9f9** color should be applied as a background color
     - If the Dark theme is applied, then the **#181818** color should be applied as a background color
@@ -598,10 +598,3 @@ console.log(formatDistanceToNow(new Date(2021, 8, 20)))
 - Roboto
 
 </details>
-
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
